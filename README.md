@@ -14,7 +14,7 @@
 Hi, I'm Arun Kumar, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India.<br><br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ArunKumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shivaylamba)](https://www.linkedin.com/in/arun-kumar-36228a202)
-[![Twitter Badge](http://img.shields.io/badge/-@howdevelop-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/Arun01_kumar)](https://twitter.com/Arun01_kumar) 
+[![Twitter Badge](http://img.shields.io/badge/-@Arunkumar-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/Arun01_kumar)](https://twitter.com/Arun01_kumar) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:arun02580@gmail.com)](mailto:arun02580@gmail.com)
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=arunkumar.arunkumar)  <br> 
