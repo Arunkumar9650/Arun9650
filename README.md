@@ -1,4 +1,4 @@
-# README.md
+
 ### Hey 👋🏽, I'm [Arun!]
 <!-- <br/>
 
@@ -11,6 +11,19 @@
 --> 
 
 
-Hi, I'm Arun Kumar, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India.
+Hi, I'm Arun Kumar, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India.<br><br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ArunKumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shivaylamba)](https://www.linkedin.com/in/arun-kumar-36228a202)
+[![Twitter Badge](http://img.shields.io/badge/-@howdevelop-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/Arun01_kumar)](https://twitter.com/Arun01_kumar) 
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:arun02580@gmail.com)](mailto:arun02580@gmail.com)
+<br />
+![](https://visitor-badge.glitch.me/badge?page_id=arunkumar.arunkumar)  <br> 
+
+- Web Development - Machine Learning - DevOps
+
+**Languages and Tools:**
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+![Arun's github stats](https://github-readme-stats.vercel.app/api?username=Arun9650&show_icons=true&hide_border=true)
